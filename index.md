@@ -17,13 +17,12 @@
 
 ---
 
-### Southside Coffee Shops
+### Some of My Other Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Arcade Game](http://example.com/)
+- [Feed Reader Testing](https://github.com/dboston528/frontend-nanodegree-feedreader)
+- [Restaurant Reviews](https://github.com/dboston528/restaurant-stage-1)
+
 
 ---
 
