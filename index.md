@@ -4,7 +4,7 @@
 
 ### My Favorites 
 
-[My Reads](/sample_page)
+[My Reads](/myreads)
 <img src="images/myreads_thumb.jpg?raw=true"/>
 
 ---
