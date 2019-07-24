@@ -6,4 +6,4 @@ In this project, I created a bookshelf app using React JS, that allows you to se
 
 ### [View the source](https://github.com/dboston528/My-Reads)
 
-### View it live (comming soon!)
+### [View it live!](https://mybooksdeandre.herokuapp.com/)
